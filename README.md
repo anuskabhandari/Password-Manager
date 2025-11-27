@@ -51,7 +51,6 @@ pip install -r requirements.txt
 2. Run The program
 python project.py
 
-
 3.Menu Options:
 
 [A] Add a new password
@@ -60,8 +59,7 @@ python project.py
 
 [Q] Quit
 
----
-
+-------
 ## File Structure
 
 PasswordManager/
@@ -70,6 +68,8 @@ PasswordManager/
 ├─ requirements.txt     # Dependencies
 ├─ README.md            # This file
 
-AUTHOR 
+## AUTHOR 
 Anuska Bhandari
+
+
 
