@@ -40,9 +40,21 @@ This project demonstrates:
 - Python 3.10+  
 - Python libraries:
   - `cryptography` → `pip install cryptography`  
-  - `pytest` → for running tests  
-
+  - `pytest` → for running tests
 ---
+
+
+## File Structure
+
+PasswordManager/
+├─ project.py           # Main program
+├─ test_project.py      # Optional tests
+├─ requirements.txt     # Dependencies
+├─ README.md            # This file
+
+## AUTHOR 
+Anuska Bhandari
+
 
 ##  How to Run
 1. Install dependencies
@@ -58,18 +70,5 @@ python project.py
 [V] View saved passwords
 
 [Q] Quit
-
--------
-## File Structure
-
-PasswordManager/
-├─ project.py           # Main program
-├─ test_project.py      # Optional tests
-├─ requirements.txt     # Dependencies
-├─ README.md            # This file
-
-## AUTHOR 
-Anuska Bhandari
-
 
 
